@@ -20,3 +20,13 @@ Compilar:
 
 ```bash
 javac PGIRC.java
+
+Ejecutar:
+
+```bash
+java PGIRC
+
+Tecnologías
+- Java
+- Visual Studio Code
+- GitHub
