@@ -236,8 +236,7 @@ public class PGIRC {
                 String destino
         ) {
 
-            for (Arista arista :
-                    adyacencia.get(orDefault(origen))) {
+            for (Arista arista : getOrDefault(origen)) {
 
                 if (arista.destino.equals(destino)) {
 
